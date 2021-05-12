@@ -1,1 +1,1 @@
-# kait-s-game
+# game
